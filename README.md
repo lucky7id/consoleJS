@@ -10,3 +10,4 @@ To Install
 __________
 
 Add contents of install.js to chrome bookmark url
+test
